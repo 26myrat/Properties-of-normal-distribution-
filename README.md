@@ -1,1 +1,1 @@
-# Properties-of-normal-distribution-
+# PropertiesOfNormalDistribution
